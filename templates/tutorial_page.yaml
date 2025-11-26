@@ -1,0 +1,23 @@
+page_template:
+  title: "{page_title}"
+
+  introduction: |
+    ## Tutorial Overview
+
+    {introduction}
+
+  steps:
+    - title: "{step_1_title}"
+      content: |
+        ### Step 1: {step_1_title}
+        {step_1_content}
+
+    - title: "{step_2_title}"
+      content: |
+        ### Step 2: {step_2_title}
+        {step_2_content}
+
+  conclusion: |
+    ## What's Next?
+
+    {conclusion}
