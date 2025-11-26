@@ -1,0 +1,22 @@
+page_template:
+  title: "{page_title}"
+
+  introduction: |
+    ## Frequently Asked Questions
+
+    {introduction}
+
+  faq:
+    - question: "{faq_1_question}"
+      answer: "{faq_1_answer}"
+
+    - question: "{faq_2_question}"
+      answer: "{faq_2_answer}"
+
+    - question: "{faq_3_question}"
+      answer: "{faq_3_answer}"
+
+  conclusion: |
+    ## Need More Help?
+
+    Contact support or check out related articles.
