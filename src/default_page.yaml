@@ -1,0 +1,23 @@
+page_template:
+  title: "{page_title}"
+
+  introduction: |
+    ## Introduction
+
+    {introduction}
+
+  sections:
+    - heading: "{section_1_heading}"
+      body: |
+        ### {section_1_heading}
+        {section_1_content}
+
+    - heading: "{section_2_heading}"
+      body: |
+        ### {section_2_heading}
+        {section_2_content}
+
+  conclusion: |
+    ## Summary
+
+    {conclusion}
