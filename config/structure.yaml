@@ -1,0 +1,17 @@
+knowledge_base:
+  - category: "Getting Started"
+    template: "default_page"
+    pages:
+      - title: "Welcome"
+        id: "getting_started/welcome"
+        template: "default_page"
+
+      - title: "Installation"
+        id: "getting_started/installation"
+        template: "tutorial_page"
+
+  - category: "Support"
+    pages:
+      - title: "FAQs"
+        id: "support/faqs"
+        template: "faq_page"
